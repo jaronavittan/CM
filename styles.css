@@ -1,0 +1,21 @@
+h1 {
+font-family: Garamond, sans-serif;
+color: #C;
+}
+
+body {
+  color: brown;
+  text-align: center;
+  background-color: black;
+  font-family: Garamond;
+}
+	 
+img {
+  border-radius: 50%;
+}
+
+
+h3 {
+  font-family: Garamond;
+  color: #C;
+}
